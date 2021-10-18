@@ -1,0 +1,299 @@
+﻿id;salary_period;created_at;job_application_until;job_category;employment_quota;city
+124;Monthly;01/03/2021 03.32;31/03/2021;Other;48;Kediri
+125;Monthly;01/03/2021 03.52;31/03/2021;Food & Beverage;88;Bandung
+126;Daily;02/03/2021 02.27;20/03/2021;Other;44;Yogyakarta
+127;Monthly;03/03/2021 02.49;03/04/2021;Sales Lapangan;141;Jakarta
+128;Monthly;03/03/2021 03.30;14/03/2021;Sales Lapangan;18;Kutai Kartanegara
+129;Monthly;03/03/2021 05.01;05/03/2021;Other;77;Bandung
+130;Monthly;03/03/2021 05.34;07/03/2021;Other;90;Cianjur
+131;Monthly;03/03/2021 08.19;07/03/2021;Other;32;Tasikmalaya
+132;Monthly;03/03/2021 08.31;07/03/2021;Other;64;Tasikmalaya
+133;Monthly;03/03/2021 08.50;07/03/2021;Other;12;Tasikmalaya
+134;Monthly;03/03/2021 09.12;08/04/2021;Food & Beverage;102;Jakarta Pusat
+135;Monthly;03/03/2021 10.24;12/03/2021;Sales Lapangan;80;Ambon
+136;Monthly;03/03/2021 10.28;12/03/2021;Surveyor Umum;151;Padang Panjang
+137;Monthly;04/03/2021 04.09;31/03/2021;Sales Lapangan;24;Mataram
+138;Monthly;04/03/2021 04.21;30/04/2021;Other;2;Denpasar
+139;Monthly;04/03/2021 06.50;18/03/2021;Other;55;Kediri
+140;Monthly;04/03/2021 07.49;15/03/2021;Other;109;Boyolali
+141;Monthly;04/03/2021 07.55;10/04/2021;Other;153;Boyolali
+142;Monthly;04/03/2021 08.04;31/03/2021;Other;123;Boyolali
+143;Monthly;04/03/2021 08.12;12/03/2021;Admin;82;Semarang
+144;Monthly;04/03/2021 08.25;30/03/2021;Food & Beverage;94;Boyolali
+145;Monthly;04/03/2021 08.31;13/03/2021;Other;149;Yogyakarta
+146;Daily;05/03/2021 03.28;30/06/2021;Kurir;128;Tangerang Selatan
+147;Monthly;05/03/2021 06.55;13/03/2021;Other;110;Surabaya
+148;Monthly;05/03/2021 12.03;31/03/2021;Driver B1/B2;77;Semarang
+149;Monthly;07/03/2021 05.59;31/03/2021;Sales Lapangan;70;Surabaya
+150;Monthly;08/03/2021 03.44;31/03/2021;Other;28;Semarang
+151;Daily;08/03/2021 08.56;11/03/2021;Operator Forklift;75;Bekasi
+152;Monthly;09/03/2021 02.39;12/03/2021;Sales Lapangan;76;Tangerang
+153;Monthly;09/03/2021 06.08;15/03/2021;Other;28;Sidoarjo
+154;Daily;09/03/2021 06.25;12/03/2021;Sales Lapangan;110;Depok
+155;Daily;10/03/2021 05.02;30/08/2021;Pekerja Gudang;45;Palembang
+156;Monthly;10/03/2021 08.14;17/03/2021;Admin;149;Jakarta Utara
+157;Monthly;10/03/2021 11.51;30/04/2021;Other;142;Bandung
+158;Monthly;12/03/2021 04.53;30/04/2021;Customer Service;142;Bogor
+159;Daily;12/03/2021 05.12;20/03/2021;Surveyor Umum;43;Jakarta
+160;Monthly;12/03/2021 05.40;30/04/2021;Customer Service;50;Jakarta
+161;Monthly;15/03/2021 04.34;31/03/2021;Other;122;Demak
+162;Monthly;15/03/2021 05.49;31/03/2021;Other;97;Jakarta Barat
+163;Daily;15/03/2021 07.21;31/07/2021;Staf Farmasi;2;Jakarta Selatan
+164;Monthly;15/03/2021 09.57;14/04/2021;Other;137;Padang
+165;Weekly;16/03/2021 06.02;22/03/2021;Food & Beverage;57;Simeulue
+166;Monthly;16/03/2021 06.47;22/03/2021;Surveyor Umum;113;Sidoarjo
+167;Monthly;16/03/2021 06.59;31/03/2021;Other;118;Sidoarjo
+168;Monthly;16/03/2021 07.39;22/03/2021;Other;102;Aceh Tengah
+169;Daily;16/03/2021 08.17;31/03/2021;Admin;71;Palembang
+170;Monthly;16/03/2021 09.06;31/03/2021;Other;11;Sidoarjo
+171;Monthly;16/03/2021 09.57;31/03/2021;Other;6;Jakarta Utara
+172;Monthly;16/03/2021 10.08;31/03/2021;Other;52;Jakarta Selatan
+173;Monthly;16/03/2021 14.47;17/04/2021;Sales Lapangan;40;Sukabumi
+174;Monthly;16/03/2021 15.25;31/03/2021;Sales Lapangan;22;Surabaya
+175;Daily;17/03/2021 01.41;30/04/2021;Admin;134;Palembang
+176;Daily;17/03/2021 09.47;30/04/2021;Admin;113;Jakarta
+177;Monthly;18/03/2021 03.12;31/03/2021;Telesales;68;Bandung
+178;Daily;18/03/2021 08.08;31/07/2021;Customer Service;150;Jakarta Selatan
+179;Monthly;18/03/2021 11.02;30/03/2021;Food & Beverage;41;Yogyakarta
+180;Monthly;19/03/2021 03.34;31/03/2021;Other;68;Yogyakarta
+181;Daily;19/03/2021 05.01;31/03/2021;Surveyor Umum;137;Jakarta
+182;Monthly;19/03/2021 09.07;08/04/2021;Telesales;23;Jakarta Barat
+183;Monthly;19/03/2021 10.58;31/03/2021;Sales Lapangan;3;Samarinda
+184;Monthly;19/03/2021 12.14;05/04/2021;Sales Lapangan;53;Jakarta
+185;Monthly;20/03/2021 04.29;02/04/2021;Other;92;Kediri
+186;Monthly;20/03/2021 15.17;30/03/2021;Other;75;Bandung
+187;Daily;22/03/2021 06.48;30/04/2021;Pekerja Gudang;22;Bogor
+188;Monthly;22/03/2021 16.08;30/04/2021;SPB/SPG;3;Jakarta
+189;Monthly;23/03/2021 01.18;29/04/2021;Telesales;75;Jakarta Selatan
+190;Monthly;23/03/2021 08.03;26/03/2021;Other;24;Jakarta Utara
+191;Monthly;23/03/2021 08.14;31/03/2021;Other;78;Cirebon
+192;Monthly;23/03/2021 11.43;23/04/2021;Pekerja Event;121;Jakarta Barat
+193;Monthly;24/03/2021 04.10;31/07/2021;Surveyor Umum;121;Jakarta
+194;Daily;24/03/2021 05.14;31/05/2021;Merchandiser;78;Palembang
+195;Monthly;24/03/2021 05.28;30/04/2021;Other;102;Cirebon
+196;Monthly;24/03/2021 07.05;31/07/2021;Surveyor Umum;40;Makassar
+197;Monthly;24/03/2021 07.21;31/07/2021;Surveyor Umum;147;Banjarmasin
+198;Monthly;24/03/2021 07.49;31/07/2021;Surveyor Umum;114;Surabaya
+199;Monthly;24/03/2021 07.55;31/07/2021;Surveyor Umum;77;Tangerang
+200;Monthly;24/03/2021 08.00;31/07/2021;Surveyor Umum;125;Jakarta
+201;Monthly;24/03/2021 08.15;31/07/2021;Surveyor Umum;29;Medan
+202;Monthly;24/03/2021 08.23;31/07/2021;Surveyor Umum;122;Bali
+203;Monthly;24/03/2021 08.31;31/07/2021;Surveyor Umum;143;Samarinda
+204;Monthly;24/03/2021 09.35;09/04/2021;Telesales;67;Bandung
+205;Monthly;24/03/2021 09.43;31/05/2021;Surveyor Umum;108;Bali
+206;Monthly;24/03/2021 10.14;30/04/2021;Driver A;57;Jakarta Selatan
+207;Monthly;24/03/2021 10.43;30/04/2021;Pekerja Gudang;86;Jakarta Utara
+208;Monthly;24/03/2021 11.13;31/05/2021;Surveyor Umum;23;Pekanbaru
+209;Monthly;24/03/2021 11.50;31/05/2021;Surveyor Umum;39;Mamuju
+210;Monthly;24/03/2021 12.04;31/05/2021;Surveyor Umum;98;Kendari
+211;Monthly;24/03/2021 12.10;31/05/2021;Surveyor Umum;5;Bangka
+212;Monthly;24/03/2021 12.20;31/05/2021;Surveyor Umum;31;Palu
+213;Monthly;24/03/2021 12.22;31/05/2021;Surveyor Umum;140;Lampung
+214;Monthly;24/03/2021 12.23;30/04/2021;Customer Service;45;Jakarta Selatan
+215;Monthly;24/03/2021 12.35;30/04/2021;Sales Lapangan;118;Bali
+216;Monthly;24/03/2021 12.54;31/05/2021;Surveyor Umum;53;Pematang Siantar
+217;Monthly;24/03/2021 12.58;31/05/2021;Surveyor Umum;89;Tomohon
+218;Monthly;24/03/2021 13.12;31/05/2021;Surveyor Umum;127;Palembang
+219;Monthly;24/03/2021 13.13;31/05/2021;Surveyor Umum;73;Bengkulu
+220;Monthly;24/03/2021 13.22;30/03/2021;Food & Beverage;53;Sleman
+221;Monthly;24/03/2021 13.23;31/05/2021;Surveyor Umum;67;Yogyakarta
+222;Monthly;24/03/2021 13.26;31/05/2021;Surveyor Umum;65;Gorontalo
+223;Monthly;24/03/2021 13.37;31/05/2021;Surveyor Umum;121;Jambi
+224;Monthly;24/03/2021 13.37;31/05/2021;Surveyor Umum;142;Maluku Tengah
+225;Monthly;24/03/2021 13.51;31/05/2021;Surveyor Umum;80;Bekasi
+226;Monthly;24/03/2021 13.52;31/05/2021;Surveyor Umum;57;Banda Aceh
+227;Monthly;24/03/2021 14.00;31/05/2021;Surveyor Umum;86;Lombok Tengah
+228;Monthly;24/03/2021 14.05;31/05/2021;Surveyor Umum;2;Semarang
+229;Monthly;24/03/2021 14.13;31/05/2021;Surveyor Umum;60;Kupang
+230;Monthly;24/03/2021 14.17;31/05/2021;Surveyor Umum;112;Ketapang
+231;Monthly;24/03/2021 14.24;31/05/2021;Surveyor Umum;118;Jayapura
+232;Monthly;24/03/2021 14.30;31/05/2021;Surveyor Umum;16;Palangka Raya
+233;Monthly;24/03/2021 14.40;31/05/2021;Surveyor Umum;44;Bulungan
+234;Monthly;24/03/2021 14.49;31/05/2021;Surveyor Umum;143;Ambon
+235;Monthly;24/03/2021 16.46;30/03/2021;Admin;31;Jakarta Pusat
+236;Monthly;25/03/2021 02.47;30/04/2021;SPB/SPG;108;Mojokerto
+237;Monthly;25/03/2021 03.18;24/04/2021;Other;23;Yogyakarta
+238;Monthly;25/03/2021 03.25;30/04/2021;Other;131;Kudus
+239;Monthly;25/03/2021 03.28;30/04/2021;Other;41;Semarang
+240;Monthly;25/03/2021 03.31;30/04/2021;Other;17;Yogyakarta
+241;Monthly;25/03/2021 03.42;23/04/2021;Other;134;Yogyakarta
+242;Monthly;25/03/2021 03.50;23/04/2021;Other;91;Yogyakarta
+243;Monthly;25/03/2021 03.55;31/03/2021;Customer Service;34;Yogyakarta
+244;Monthly;25/03/2021 04.05;23/04/2021;Other;29;Yogyakarta
+245;Monthly;25/03/2021 05.11;12/04/2021;Customer Service;1;Jakarta Utara
+246;Monthly;25/03/2021 06.48;16/04/2021;Other;146;Jakarta
+247;Monthly;25/03/2021 11.37;14/04/2021;Sales Lapangan;46;Surabaya
+248;Monthly;26/03/2021 02.57;08/04/2021;Other;70;Surabaya
+249;Monthly;26/03/2021 05.18;30/04/2021;Food & Beverage;144;Tangerang Selatan
+250;Monthly;26/03/2021 07.29;30/12/2021;Telesales;4;Yogyakarta
+251;Monthly;26/03/2021 07.58;31/05/2021;Sales Lapangan;115;Bali
+252;Monthly;26/03/2021 12.18;30/04/2021;Sales Lapangan;116;Gresik
+253;Monthly;26/03/2021 12.37;30/04/2021;Sales Lapangan;57;Bangka
+254;Monthly;27/03/2021 03.56;03/04/2021;Admin;44;Sleman
+255;Monthly;27/03/2021 03.56;03/04/2021;Admin;58;Sleman
+256;Monthly;27/03/2021 04.09;03/04/2021;Admin;148;Sleman
+257;Monthly;27/03/2021 04.13;03/04/2021;Other;144;Sleman
+258;Monthly;27/03/2021 04.16;03/04/2021;Other;119;Sleman
+259;Monthly;27/03/2021 05.26;09/04/2021;Sales Lapangan;19;Yogyakarta
+260;Monthly;29/03/2021 01.31;05/04/2021;Other;3;Jakarta Utara
+261;Monthly;29/03/2021 01.43;05/04/2021;Other;58;Jakarta Utara
+262;Weekly;29/03/2021 06.43;30/06/2021;Other;83;Yogyakarta
+263;Monthly;29/03/2021 10.10;15/04/2021;Other;95;Yogyakarta
+264;Monthly;30/03/2021 03.18;30/04/2021;Food & Beverage;49;Bekasi
+265;Monthly;30/03/2021 06.07;29/06/2021;Sales Lapangan;40;Malang
+266;Monthly;30/03/2021 07.29;18/04/2021;Telesales;134;Sleman
+267;Monthly;30/03/2021 09.23;15/04/2021;Sales Lapangan;24;Semarang
+268;Monthly;30/03/2021 10.28;05/04/2021;Other;81;Bali
+269;Monthly;30/03/2021 11.52;16/04/2021;Other;80;Denpasar
+270;Monthly;31/03/2021 02.56;16/04/2021;Other;31;Denpasar
+271;Monthly;31/03/2021 03.10;16/04/2021;Other;85;Denpasar
+272;Monthly;31/03/2021 03.11;01/05/2021;Sales Lapangan;62;Jakarta Pusat
+273;Monthly;31/03/2021 03.21;20/04/2021;Sales Lapangan;81;Jakarta Pusat
+274;Monthly;31/03/2021 03.24;16/04/2021;Other;133;Denpasar
+275;Monthly;31/03/2021 07.23;17/04/2021;Sales Lapangan;56;Jakarta Barat
+276;Monthly;31/03/2021 07.29;01/05/2021;Sales Lapangan;73;Semarang
+277;Monthly;31/03/2021 07.33;01/05/2021;Sales Lapangan;146;Bandung
+278;Monthly;31/03/2021 07.42;01/05/2021;Sales Lapangan;121;Surabaya
+279;Monthly;31/03/2021 10.01;31/05/2021;Other;9;Jakarta Selatan
+280;Monthly;01/04/2021 03.12;16/04/2021;Sales Lapangan;100;Yogyakarta
+281;Monthly;01/04/2021 03.15;16/04/2021;Sales Lapangan;11;Semarang
+282;Monthly;01/04/2021 03.25;16/04/2021;Sales Lapangan;120;Yogyakarta
+283;Monthly;01/04/2021 03.35;16/04/2021;Other;58;Yogyakarta
+284;Monthly;01/04/2021 04.57;31/08/2021;Pekerja Event;2;Medan
+285;Monthly;01/04/2021 09.27;07/04/2021;Other;11;Sukabumi
+286;Monthly;01/04/2021 10.26;15/04/2021;Sales Lapangan;82;Jakarta Selatan
+287;Monthly;01/04/2021 11.31;18/04/2021;Sales Lapangan;67;Jakarta
+288;Monthly;01/04/2021 11.36;17/04/2021;Sales Lapangan;6;Jakarta
+289;Monthly;05/04/2021 04.29;11/04/2021;Food & Beverage;39;Aceh Selatan
+290;Monthly;05/04/2021 06.47;10/04/2021;Kurir;140;Bandung
+291;Monthly;05/04/2021 08.11;29/04/2021;Sales Lapangan;95;Surabaya
+292;Monthly;05/04/2021 11.59;29/04/2021;Other;71;Bali
+293;Monthly;05/04/2021 12.12;29/04/2021;Other;1;Tangerang
+294;Monthly;05/04/2021 12.16;15/04/2021;Sales Lapangan;15;Bandung
+295;Monthly;06/04/2021 08.23;06/05/2021;Sales Lapangan;45;Jakarta Pusat
+296;Monthly;06/04/2021 08.52;09/04/2021;Food & Beverage;108;Jombang
+297;Monthly;06/04/2021 09.05;09/04/2021;Admin;49;Kediri
+298;Monthly;06/04/2021 09.08;12/04/2021;Food & Beverage;107;Kediri
+299;Monthly;06/04/2021 10.42;15/04/2021;Other;12;Sukoharjo
+300;Monthly;06/04/2021 10.48;15/04/2021;Other;122;Sukoharjo
+301;Monthly;06/04/2021 10.54;15/04/2021;Telesales;126;Sukoharjo
+302;Weekly;06/04/2021 15.07;12/04/2021;Perhotelan & Pariwisata;86;Aceh Selatan
+303;Daily;07/04/2021 02.54;31/07/2021;Admin;108;Balikpapan
+304;Daily;07/04/2021 03.03;30/09/2021;Pekerja Gudang;145;Balikpapan
+305;Monthly;07/04/2021 03.22;13/04/2021;Sales Lapangan;61;Malang
+306;Monthly;07/04/2021 04.51;30/06/2021;Sales Lapangan;68;Jakarta Pusat
+307;Monthly;07/04/2021 06.41;22/10/2021;Sales Lapangan;5;Jakarta Selatan
+308;Monthly;07/04/2021 08.22;23/04/2021;Other;71;Depok
+309;Monthly;07/04/2021 08.38;23/04/2021;Other;146;Samarinda
+310;Monthly;07/04/2021 08.44;23/04/2021;Other;33;Kutai Barat
+312;Monthly;07/04/2021 10.15;30/04/2021;Sales Lapangan;20;Yogyakarta
+313;Monthly;08/04/2021 04.59;26/04/2021;Sales Lapangan;138;Yogyakarta
+314;Monthly;08/04/2021 05.06;26/04/2021;Other;111;Yogyakarta
+315;Monthly;08/04/2021 06.51;30/04/2021;Other;21;Jakarta
+316;Monthly;08/04/2021 08.27;30/06/2021;Sales Lapangan;127;Yogyakarta
+317;Monthly;08/04/2021 10.26;30/09/2021;Sales Lapangan;111;Yogyakarta
+318;Monthly;09/04/2021 08.43;30/04/2021;Other;106;Semarang
+319;Daily;09/04/2021 08.54;25/04/2021;Customer Service;118;Magelang
+320;Monthly;09/04/2021 11.28;29/04/2021;Other;150;Jakarta
+321;Monthly;11/04/2021 05.56;30/04/2021;Sales Lapangan;122;Surabaya
+322;Monthly;12/04/2021 05.19;31/08/2021;Sales Lapangan;35;Tasikmalaya
+368;Daily;14/04/2021 03.46;30/04/2021;Surveyor Umum;108;Jakarta Selatan
+369;Daily;14/04/2021 03.54;28/04/2021;Telesales;64;Bandung
+370;Weekly;14/04/2021 04.04;20/04/2021;Customer Service;119;Jakarta
+374;Monthly;14/04/2021 04.57;19/05/2021;Admin;29;Jakarta Selatan
+375;Daily;14/04/2021 04.59;20/04/2021;SPB/SPG;31;Jakarta Selatan
+376;Daily;14/04/2021 05.02;07/05/2021;Customer Service;49;Jakarta Selatan
+377;Monthly;14/04/2021 05.51;30/04/2021;Other;8;Ngawi
+378;Monthly;14/04/2021 06.18;30/11/2021;Admin;1;Jakarta Selatan
+380;Monthly;14/04/2021 09.13;29/04/2021;Sales Lapangan;21;Cirebon
+381;Monthly;14/04/2021 09.39;31/07/2021;Sales Lapangan;110;Jakarta Pusat
+382;Monthly;14/04/2021 09.40;31/07/2021;Sales Lapangan;129;Medan
+383;Monthly;14/04/2021 09.41;31/07/2021;Sales Lapangan;79;Palembang
+384;Monthly;14/04/2021 09.42;31/07/2021;Sales Lapangan;9;Cirebon
+385;Monthly;14/04/2021 09.42;31/07/2021;Sales Lapangan;99;Semarang
+386;Monthly;14/04/2021 09.43;31/07/2021;Sales Lapangan;81;Yogyakarta
+387;Monthly;14/04/2021 09.43;31/07/2021;Sales Lapangan;113;Aceh Tengah
+388;Monthly;14/04/2021 09.44;31/07/2021;Sales Lapangan;18;Pekanbaru
+389;Monthly;14/04/2021 09.44;31/07/2021;Sales Lapangan;71;Surabaya
+390;Monthly;14/04/2021 09.45;31/07/2021;Sales Lapangan;131;Denpasar
+391;Monthly;14/04/2021 09.45;31/07/2021;Sales Lapangan;105;Samarinda
+392;Monthly;14/04/2021 09.46;31/07/2021;Sales Lapangan;120;Banjarmasin
+393;Monthly;14/04/2021 10.04;31/07/2021;Sales Lapangan;85;Padang
+394;Monthly;14/04/2021 10.05;31/07/2021;Sales Lapangan;6;Pontianak
+395;Monthly;15/04/2021 03.39;21/04/2021;Sales Lapangan;48;Surabaya
+396;Monthly;15/04/2021 06.04;12/05/2021;Other;111;Yogyakarta
+397;Daily;15/04/2021 08.34;30/04/2021;Food & Beverage;125;Jakarta Selatan
+398;Monthly;15/04/2021 08.44;31/01/2022;Telesales;1;Jakarta Pusat
+399;Monthly;15/04/2021 10.39;30/04/2021;Other;30;Jakarta
+400;Monthly;15/04/2021 10.46;30/04/2021;SPB/SPG;101;Jakarta
+401;Monthly;15/04/2021 11.00;21/04/2021;Sales Lapangan;152;Surabaya
+402;Monthly;15/04/2021 11.04;21/04/2021;Other;26;Yogyakarta
+403;Monthly;15/04/2021 14.55;30/04/2021;Other;127;Jakarta
+409;Daily;16/04/2021 06.40;07/05/2021;Other;104;Brebes
+410;Daily;16/04/2021 06.49;07/05/2021;Other;86;Brebes
+411;Monthly;16/04/2021 07.17;21/04/2021;Admin;57;Jakarta Pusat
+412;Monthly;16/04/2021 09.28;21/04/2021;Other;37;Cianjur
+413;Monthly;16/04/2021 09.35;21/04/2021;Admin;27;Cianjur
+414;Monthly;16/04/2021 09.59;30/04/2021;Other;105;Surakarta
+421;Weekly;16/04/2021 10.30;07/05/2021;Sales Lapangan;97;Semarang
+422;Weekly;16/04/2021 10.37;07/05/2021;Sales Lapangan;81;Balikpapan
+423;Weekly;16/04/2021 13.15;28/04/2021;Sales Lapangan;103;Nganjuk
+424;Monthly;17/04/2021 06.13;04/05/2021;Admin;106;Majalengka
+425;Monthly;17/04/2021 06.24;04/05/2021;Other;152;Majalengka
+426;Monthly;19/04/2021 02.08;30/04/2021;Other;114;Bekasi
+427;Monthly;19/04/2021 05.21;15/08/2021;Sales Lapangan;25;Jakarta Selatan
+428;Monthly;19/04/2021 05.50;31/08/2021;Surveyor Umum;88;Jakarta
+429;Monthly;19/04/2021 08.13;07/05/2021;Sales Lapangan;55;Gresik
+430;Monthly;19/04/2021 08.21;31/07/2021;Sales Lapangan;11;Bandung
+431;Monthly;19/04/2021 08.38;31/10/2021;Sales Lapangan;113;Surabaya
+432;Monthly;19/04/2021 08.50;11/05/2021;Sales Lapangan;52;Madiun
+433;Monthly;20/04/2021 02.42;27/04/2021;Telesales;17;Surabaya
+434;Monthly;20/04/2021 07.10;20/05/2021;Other;112;Yogyakarta
+435;Monthly;20/04/2021 11.25;26/04/2021;Sales Lapangan;142;Tangerang Selatan
+436;Monthly;21/04/2021 05.34;31/05/2021;Sales Lapangan;55;Purwakarta
+437;Weekly;21/04/2021 05.39;30/04/2021;Sales Lapangan;35;Surakarta
+438;Monthly;21/04/2021 07.07;01/05/2021;SPB/SPG;75;Semarang
+439;Daily;21/04/2021 07.21;28/05/2021;Kurir;142;Jakarta
+440;Daily;21/04/2021 07.45;28/05/2021;Kurir;55;Bekasi
+441;Daily;21/04/2021 07.57;28/05/2021;Kurir;50;Tangerang
+442;Daily;21/04/2021 08.04;28/05/2021;Kurir;109;Depok
+443;Monthly;21/04/2021 10.12;23/05/2021;Sales Lapangan;115;Jakarta Barat
+444;Monthly;22/04/2021 03.35;14/05/2021;Other;96;Bandung
+445;Monthly;22/04/2021 04.45;30/04/2021;Other;152;Denpasar
+450;Monthly;22/04/2021 06.53;25/04/2021;Sales Lapangan;7;Bekasi
+451;Monthly;22/04/2021 07.58;12/07/2021;Admin;82;Jakarta
+452;Monthly;23/04/2021 02.43;30/04/2021;Admin;26;Yogyakarta
+453;Monthly;23/04/2021 04.53;30/04/2021;Other;126;Surabaya
+454;Monthly;23/04/2021 04.59;30/04/2021;Sales Lapangan;118;Surabaya
+455;Monthly;23/04/2021 04.59;30/04/2021;Sales Lapangan;94;Surabaya
+456;Monthly;23/04/2021 08.11;30/06/2021;Sales Lapangan;56;Bandung
+457;Monthly;26/04/2021 02.49;03/05/2021;Telesales;152;Lingga
+458;Monthly;26/04/2021 03.54;15/05/2021;Sales Lapangan;22;Tasikmalaya
+459;Monthly;26/04/2021 04.33;30/05/2021;Other;50;Tangerang
+460;Monthly;26/04/2021 06.23;02/05/2021;Admin;128;Semarang
+461;Daily;26/04/2021 07.32;30/11/2021;Surveyor Umum;7;Lampung Selatan
+465;Daily;26/04/2021 10.39;27/05/2021;Pekerja Gudang;106;Jakarta Selatan
+466;Monthly;27/04/2021 03.21;15/05/2021;Sales Lapangan;132;Jambi
+467;Monthly;27/04/2021 09.16;31/05/2021;Kurir;76;Jakarta Utara
+468;Monthly;27/04/2021 09.26;27/05/2021;Other;56;Kediri
+476;Daily;28/04/2021 05.25;31/03/2022;Operator Forklift;12;Bekasi
+477;Daily;29/04/2021 07.55;10/07/2021;Kurir;8;Jakarta
+478;Monthly;29/04/2021 08.13;15/05/2021;Other;32;Surabaya
+479;Monthly;29/04/2021 08.20;15/05/2021;Admin;12;Surabaya
+480;Daily;29/04/2021 08.31;29/11/2023;Kurir;81;Depok
+481;Daily;29/04/2021 08.43;29/09/2022;Kurir;71;Depok
+482;Monthly;29/04/2021 08.56;31/05/2021;Sales Lapangan;97;Bandung
+483;Daily;29/04/2021 09.17;29/11/2023;Kurir;54;Denpasar
+484;Daily;29/04/2021 09.23;29/11/2023;Kurir;82;Palembang
+485;Daily;29/04/2021 09.29;29/11/2023;Kurir;17;Semarang
+486;Monthly;29/04/2021 09.33;19/05/2021;Other;149;Bandung
+487;Daily;29/04/2021 09.34;29/11/2023;Kurir;146;Bandung
+488;Monthly;29/04/2021 09.51;21/05/2021;Other;20;Surabaya
+489;Monthly;29/04/2021 09.54;19/05/2021;Other;63;Jakarta
+490;Monthly;29/04/2021 10.23;04/05/2021;Other;83;Malang
+491;Monthly;30/04/2021 04.36;08/05/2021;Sales Lapangan;8;Denpasar
+492;Monthly;30/04/2021 06.45;31/05/2021;Sales Lapangan;121;Bandung
+493;Monthly;30/04/2021 06.50;31/05/2021;Other;65;Bandung
+494;Monthly;30/04/2021 07.29;21/05/2021;Other;11;Surabaya
+500;Monthly;30/04/2021 09.03;05/06/2021;Telesales;95;Jakarta
+501;Monthly;30/04/2021 11.08;13/05/2021;Other;33;Sumedang
